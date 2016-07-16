@@ -44,10 +44,10 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://bivilmjacob.com/"
+url: "http://bivilmjacob.com"
 # url: "/bivilmj_blog"
 # baseurl: "/hcz-jekyll-blog"
-baseurl: "/bivilmj_blog"
+baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"

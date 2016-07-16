@@ -1,4 +1,4 @@
-## HCZ Material theme
+## Profile n Blog
 
 This is a simple personal material theme
 
