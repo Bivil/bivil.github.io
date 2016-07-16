@@ -5,7 +5,7 @@ logo: http://bivilmjacob.com/static/img/avatar.png
 github: https://github.com/bivil
 about: RoR developer
 # disqus_shortname: aboutashu
-# google_analytics: UA-72862926-1
+google_analytics: UA-80831957-1
 urls:
     - text: Home
       url: /
