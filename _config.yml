@@ -4,8 +4,8 @@ author: Bivil M Jacob
 logo: http://bivilmjacob.com/hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/bivil
 about: RoR developer
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+# disqus_shortname: aboutashu
+# google_analytics: UA-72862926-1
 urls:
     - text: Home
       url: /
@@ -21,7 +21,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: '#'
       icon: fa-github
 
 social:
